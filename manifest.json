@@ -1,0 +1,10 @@
+{
+	"id": "codeblock-copy-in-edit-mode-obsidian",
+	"name": "Copy button for code blocks in edit mode",
+	"version": "0.1",
+	"minAppVersion": "0.11.13",
+	"description": "Adds a button to copy contents of ``` code blocks in markdown editing mode.",
+	"author": "4000degrees",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}

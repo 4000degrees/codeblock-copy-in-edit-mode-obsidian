@@ -1,0 +1,9 @@
+.code-block-copy-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 3;
+}
+.code-block-copy-button button {
+  margin: 0;
+}
